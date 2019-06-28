@@ -11,7 +11,7 @@
             "order": -1
         },
         "website_title": "Samasource Knowledgebase",
-        "show_featured_articles": true,
+        "show_featured_articles": false,
         "show_featured_in_article": false,
         "featured_articles_count": "4",
         "password_protect": false,
